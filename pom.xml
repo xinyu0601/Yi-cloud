@@ -13,6 +13,7 @@
         <module>zeus-registry</module>
         <module>pluto</module>
         <module>yolanda</module>
+        <module>sso</module>
     </modules>
 
     <parent>
